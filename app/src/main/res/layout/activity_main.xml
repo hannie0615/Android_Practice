@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:layout_gravity="center"
+    android:gravity="top|center"
     tools:context=".MainActivity">
 
     <TextView
@@ -26,9 +27,11 @@
         />
 
     <LinearLayout
+        android:id="@+id/ll_ans"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
+        android:gravity="center"
         >
         <EditText
             android:id="@+id/v1"
