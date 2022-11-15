@@ -1,4 +1,4 @@
-# Android_Practice
+# Android_Practice: 숫자 야구 미니 게임 만들기
 ---
 
 * Invisible 
